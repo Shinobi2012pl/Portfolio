@@ -1,2 +1,3 @@
-# Task-1
-Strona portfolio
+# Portfolio project
+
+Hello everyone here is my portfolio page. Greetings!
