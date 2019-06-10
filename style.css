@@ -1,0 +1,16 @@
+li {
+    color: green;
+
+}
+
+body {
+    background-image: url(../Port/img/Space.jpg.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+   
+}
+
+body strong {
+    color: blueviolet
+}
+
